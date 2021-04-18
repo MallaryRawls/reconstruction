@@ -1,1 +1,24 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2021-04-13 11:42:24 -0400
+categories: jekyll update
+---
 
+## Tools Used 
+- [https://www.sublimetext.com/](https://www.sublimetext.com/)SublimeText
+- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet] Markdown Cheatsheet 
+- Microsoft Excel and Word 
+
+## Part 1: 
+1. I downloaded Eppes textbook on Hathitrust, both a pdf and text versions of the book. I used Microsoft Word to retrieve the word count of each chapter. I skimmed the each chapter of the text to see the years Eppes was referring to in each chapter and the location. I complied the metadata was I looking for (see data dictionary) in an Excel spreadsheet. 
+
+## Part 2: 
+2. I used Sublime Text for the majority of this project. When cleaning I used the find and replace option available through Sublime Text to find and replace the following: 
+- Removed /n 
+- Removed ## p. 
+- Removed ## #s s s
+- Removed #s s s 
+- Removed --------------
+- Removed odd characters 
+- Removed extra line breaks, characters describing pictures/emblems 
